@@ -33,6 +33,10 @@
 
 ---
 
+### 📑 **[My CV](https://github.com/mr-Vozhyk/Certificates/blob/main/CV_Data_Analyst_(Junior)_Kopats_Mikita_10.2024.pdf)**
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
