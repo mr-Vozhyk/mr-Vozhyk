@@ -29,7 +29,7 @@
 
 - :zap: I'm Captain: 10 years of service in the Army as a development of self-discipline, organization, and teamwork. Of these, 5 years in metrology and management.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/mr_Vozhyk)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrvozhyk/)
 
 ---
 
