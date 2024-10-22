@@ -27,7 +27,7 @@
 
 - :seedling: I'm passionate about data analytics, viewing it as an art form that helps us understand reality and make effective decisions. 
 
-- :zap: I'm Captain: 10 years of service in the Army as a development of self-discipline, organization, and teamwork. Of these, 5 years in metrology and management.
+- :zap: 5 years experience in metrology and management developed my attention to detail and accuracy in data handling, inspiring me to change my profession to data analyst.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrvozhyk/)
 
