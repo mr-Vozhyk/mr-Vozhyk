@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mrvozhyk/">
+  <a href="https://www.linkedin.com/in/mr-vozhyk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/mr_Vozhyk">
@@ -23,13 +23,13 @@
 
 ### :rocket: About Me :
 
-- :telescope: I'm results-oriented Data Analyst.
+- ✅ I'm results-oriented Analyst.
 
-- :seedling: I'm passionate about data analytics, viewing it as an art form that helps us understand reality and make effective decisions. 
+- :seedling: I have a deep passion for data analytics, seeing it as a form of art that allows us to unravel the complexities of reality and make informed, impactful decisions. 
 
-- :zap: 5 years experience in metrology and management developed my attention to detail and accuracy in data handling, inspiring me to change my profession to data analyst.
+- :zap: 5 years experience in Metrology and management developed my attention to detail and accuracy in data handling, inspiring me to change my profession to Analyst.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-vozhyk/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-vozhyk/)
 
 ---
 
@@ -38,8 +38,9 @@
 
 **SQL**
 
-  <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/1_PostgreSQL.svg"         title="PostgreSQL"      alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/2_MySQL.svg"              title="MySQL"           alt="MySQL"      width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/1_PostgreSQL.svg"         title="PostgreSQL"      alt="PostgreSQL"     width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/23_SQLite.svg"            title="SQLite3"         alt="SQLite3"        width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/2_MySQL.svg"              title="MySQL"           alt="MySQL"          width="40" height="40"/>&nbsp;
 
 **Working with databases:**
 
@@ -56,9 +57,10 @@
 
 **Working with code:**
 
-<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/10_Jupyter.svg"           title="Jupyter"             alt="Jupyter"             width="40" height="40"/>
-<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/11_Git.svg"               title="Git"                 alt="Git"                 width="40" height="40"/>
-<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/12_Apache%20Airflow.svg"  title="Apache Airflow"      alt="Apache Airflow"      width="40" height="40"/>
+<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/22_Google%20Colaboratory.svg"   title="Google Colab"        alt="Google Colab"        width="40" height="40"/>
+<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/10_Jupyter.svg"                 title="Jupyter"             alt="Jupyter"             width="40" height="40"/>
+<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/11_Git.svg"                     title="Git"                 alt="Git"                 width="40" height="40"/>
+<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/12_Apache%20Airflow.svg"        title="Apache Airflow"      alt="Apache Airflow"      width="40" height="40"/>
 
 **Data profiling and presentation:**
 
