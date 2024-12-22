@@ -29,11 +29,7 @@
 
 - :zap: 5 years experience in metrology and management developed my attention to detail and accuracy in data handling, inspiring me to change my profession to data analyst.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrvozhyk/)
-
----
-
-### 📑 **[My CV](https://github.com/mr-Vozhyk/Certificates/blob/main/CV_Data_Analyst_(Junior)_Kopats_Mikita_10.2024.pdf)**
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-vozhyk/)
 
 ---
 
