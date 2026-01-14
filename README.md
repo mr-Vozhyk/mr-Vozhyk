@@ -23,11 +23,11 @@
 
 ### :rocket: About Me :
 
-- ✅ I'm results-oriented Analyst.
+- ✅ I'm results-oriented Analyst. Proactive with a focus on development and implementing the best solutions.
 
 - :seedling: I have a deep passion for data analytics, seeing it as a form of art that allows us to unravel the complexities of reality and make informed, impactful decisions. 
 
-- :zap: 5 years experience in Metrology and management developed my attention to detail and accuracy in data handling, inspiring me to change my profession to Analyst.
+- :zap: 6+ years of experience working with data and automation in Retail and Metrology: analyzing metrics & preparing management reports, forecasting KPI, working with Excel/Google Sheets, Power Query, VBA, 1C, ERP, WMS, QlikView + pet projects in Python, SQL and Power BI.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-vozhyk/)
 
@@ -72,6 +72,9 @@
 
 <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/16_Power%20BI.svg"         title="Power BI"            alt="Power BI"            width="40" height="40"/>
 <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/17_Redash.svg"             title="Redash"              alt="Redash"              width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/23365920?s=48&v=4"                 title="Qlik"                alt="Qlik"                width="40" height="40"/>
+
+
 
 **Creating & editing vector and raster images:**
 
