@@ -23,11 +23,16 @@
 
 ### :rocket: About Me :
 
-- ✅ I'm results-oriented Analyst. Proactive with a focus on development and implementing the best solutions.
+- :seedling: Proactive results-oriented Analyst with a unique 5-year background in process optimization and a proven track record in retail analytics. Proactive with a focus on development and implementing the best solutions.
 
-- :seedling: I have a deep passion for data analytics, seeing it as a form of art that allows us to unravel the complexities of reality and make informed, impactful decisions. 
+My journey started in a highly regulated field, where I learned to optimize complex systems: reduced costs by 73%, accelerated document flow by 2.4x, and boosted reporting speed by 40-80%.
 
-- :zap: 6+ years of experience working with data and automation in Retail and Metrology: analyzing metrics & preparing management reports, forecasting KPI, working with Excel/Google Sheets, Power Query, VBA, 1C, ERP, WMS, QlikView + pet projects in Python, SQL and Power BI.
+I then deliberately mastered the modern data stack (Python, SQL, Power BI) and successfully applied it in retail:
+- ✅ Built a forecast model with ~95% accuracy (MAPE)
+- ✅ Automated key reporting processes
+- ✅ Slashed claim processing time from 2 months to 1 day
+
+I have a deep passion for data analytics, seeing it as a form of art that allows us to unravel the complexities of reality and make informed, impactful decisions.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr_Vozhyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-vozhyk/)
 
